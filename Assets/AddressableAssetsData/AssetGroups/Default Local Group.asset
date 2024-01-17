@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c807bd7df8b9a448894c605ada0f2233
+  m_SerializeEntries:
+  - m_GUID: b53baa10142cbb346a47ab071d32889a
+    m_Address: Hat_BunnyEars
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e65281e8a345ff4ea1b73f2a1578a6d
+    m_Address: Assets/MyResources/Hat01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c93cb6413eaf5f46bbe190dbbad2651
+    m_Address: Assets/MyResources/Hat02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 434c1413ad6a76842a3a98e6a21aefa5
+    m_Address: Assets/MyResources/Hat03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc8eb9039a6936749b8aad319953ab89
+    m_Address: Assets/MyResources/Hat04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 173ee4c7d80755d47aa3339f970e8ade
+    m_Address: Assets/MyResources/Hat05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3a9b5d611a35464a8e473e4249a1df9
+    m_Address: Assets/MyResources/LoadyDungeonsLogo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 25de681b6a57e4ea4af6e9b8229debd5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5f682609f32cb4c1596bc6e0bdf1b0b0, type: 2}
+    - {fileID: 11400000, guid: ddff599521e8846fd95d90f1a4e69c3d, type: 2}
